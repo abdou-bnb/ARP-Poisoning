@@ -132,7 +132,4 @@ Here is a video of me performing all of these steps, so it is much easier for yo
 [![ARP-Spoof](https://raw.githubusercontent.com/ammarx/ARP-spoofing/master/res/11.png)](https://drive.google.com/file/d/0B4LJfOrWbK6bekVnN2RGTEpGajQ/view?usp=sharing&resourcekey=0-LhuEdC5LeMz0t7tNHkc0Sg)
 
 
-# Credits
 
-This script is made by `www.arppoisoning.com` 
-However, I have made this script easier to use.
